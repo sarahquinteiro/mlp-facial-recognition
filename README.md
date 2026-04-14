@@ -245,7 +245,7 @@ W1 -= lr * X.T  @ delta_h1
 | Karine Fernandes e Silva | 2161392413030 |
 | Sarah Quinteiro Limeira da Silva | 2161392413027 |
 
-**Fatec Osasco — Análise e Desenvolvimento de Sistemas**  
+**Fatec Osasco — Desenvolvimento de Software Multiplataforma**  
 Disciplina: Aprendizagem de Máquina — 2026
 
 ---
